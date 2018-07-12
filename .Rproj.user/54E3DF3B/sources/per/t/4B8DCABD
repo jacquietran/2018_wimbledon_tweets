@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531382453322.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1201958275",
+    "id" : "4B8DCABD",
+    "lastKnownWriteTime" : 1531386734,
+    "last_content_update" : 1531386734037,
+    "path" : "~/GitHub/2018_wimbledon_tweets/extract_federer_tweets.R",
+    "project_path" : "extract_federer_tweets.R",
+    "properties" : {
+        "cursorPosition" : "49,0",
+        "scrollLine" : "41",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

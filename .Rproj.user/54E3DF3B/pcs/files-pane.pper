@@ -1,0 +1,9 @@
+{
+    "path" : "~/GitHub/2018_wimbledon_tweets",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

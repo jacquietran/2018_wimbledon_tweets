@@ -45,27 +45,3 @@ serena <- serena %>%
          followers_count, friends_count, statuses_count) %>%
   unnest() %>%
   write_csv(here("serena.csv"))
-
-
-
-# To do in blog post:
-
-# Data preparation
-# (remove stop words, fix text encoding, no duplicate tweets)
-
-# n-gram frequency
-
-# Sentiment analysis - single-word sentiment
-### bing (positive / negative binary categorisation)
-### AFINN (positive to negative, continuous scale)
-### nrc (multiple sentiment categories)
-
-# Sentiment analysis - sentence-level
-### Useful ref: https://blog.exploratory.io/twitter-sentiment-analysis-scoring-by-sentence-b4d455de3560
-
-# Parts-of-speech extraction
-# Bigram networks
-### Useful ref: https://www.tidytextmining.com/ngrams.html
-
-# Topic modelling
-### Useful ref: https://www.tidytextmining.com/topicmodeling.html
